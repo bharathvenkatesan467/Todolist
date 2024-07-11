@@ -45,3 +45,6 @@ input{
 header{
     padding-left: 15px;
 }
+button:hover{
+    background-color: white;
+}
